@@ -1,0 +1,10 @@
+
+.my-nav{
+
+    background-color: #222!important;
+    /* color: white!important; */
+}
+
+.my-nav link,a{
+    color: white !important;
+}
